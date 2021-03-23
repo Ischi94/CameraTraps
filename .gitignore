@@ -53,3 +53,7 @@ api_config*.py
 *.pth
 *.o
 debug.log
+
+# detector tryout
+md_v4.1.0.pb.1
+run_tf_detector.py
